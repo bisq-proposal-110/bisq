@@ -10,8 +10,8 @@
 | <img src="https://avatars.githubusercontent.com/u/420791?v=4" width="32"/> | [ivilata](https://github.com/ivilata) |
 | <img src="https://avatars.githubusercontent.com/u/603793?v=4" width="32"/> | [devinbileck](https://github.com/devinbileck) |
 | <img src="https://avatars.githubusercontent.com/u/1999?v=4" width="32"/> | [christophsturm](https://github.com/christophsturm) |
-| <img src="https://avatars.githubusercontent.com/u/54558767?v=4" width="32"/> | [chimp1984](https://github.com/chimp1984) |
 | <img src="https://avatars.githubusercontent.com/u/20237127?v=4" width="32"/> | [niyid](https://github.com/niyid) |
+| <img src="https://avatars.githubusercontent.com/u/54558767?v=4" width="32"/> | [chimp1984](https://github.com/chimp1984) |
 | <img src="https://avatars.githubusercontent.com/u/232186?v=4" width="32"/> | [wiz](https://github.com/wiz) |
 | <img src="https://avatars.githubusercontent.com/u/4724730?v=4" width="32"/> | [notmandatory](https://github.com/notmandatory) |
 | <img src="https://avatars.githubusercontent.com/u/27722734?v=4" width="32"/> | [tau3](https://github.com/tau3) |
@@ -172,6 +172,7 @@
 | <img src="https://avatars.githubusercontent.com/u/8958455?v=4" width="32"/> | [btcll](https://github.com/btcll) |
 | <img src="https://avatars.githubusercontent.com/u/43173987?v=4" width="32"/> | [MarkLTZ](https://github.com/MarkLTZ) |
 <!-- CONTRIBUTORS END -->
+
 
 
 
